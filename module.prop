@@ -1,0 +1,6 @@
+id=Charge_Control
+name=Quantitative Stop Charge[定量停充]
+version=1.2.0
+versionCode=20250106
+author=多肉芋圆葡萄
+description=🌟 模块配置: /sdcard/Android/Charge/QC.conf
