@@ -1,0 +1,4 @@
+#!/system/bin/sh
+
+   export LD_LIBRARY_PATH=/data/adb/modules/Charge_Control/lib/:$LD_LIBRARY_PATH
+   nohup /data/adb/modules/Charge_Control/QC > /dev/null 2>&1 &
